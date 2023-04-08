@@ -130,3 +130,5 @@ see what you need to do for the models.**
 - [Active Record Associations](http://guides.rubyonrails.org/association_basics.html)
 - [API dock - Active Record Associations](https://apidock.com/rails/ActiveRecord/Associations/ClassMethods)
 - [Active Record Migrations](https://guides.rubyonrails.org/active_record_migrations.html)
+
+https://github.com/G3o-R/phase-3-active-record-associations-tvland-lab
